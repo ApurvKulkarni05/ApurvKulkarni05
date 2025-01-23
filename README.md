@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,java,ts,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js)](https://skillicons.dev)
 
 <h2>Frameworks</h2>
   
